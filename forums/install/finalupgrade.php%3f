@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+	<title>vBulletin 3.8 Upgrade System </title>
+	<link rel="stylesheet" href="../cpstyles/vBulletin_3_Default/controlpanel.css" />
+	<style type="text/css">
+	#all {
+		margin: 10px;
+	}
+	#all p, #all td, #all li, #all div {
+		font-size: 11px;
+		font-family: verdana, arial, helvetica, sans-serif;
+	}
+	</style>
+</head>
+<body style="margin:0px">
+<table cellpadding="4" cellspacing="0" border="0" width="100%" class="navbody" style="border:outset 2px">
+<tr>
+	<td width="160"><img src="../cpstyles/vBulletin_3_Default/cp_logo.gif" alt="" title="vBulletin 3 &copy;2000 - 2010, Jelsoft Enterprises Ltd." /></td>
+	<td style="padding-left:50px">
+		<a href="upgrade.php"><b>vBulletin 3.8 Upgrade System</b><br />
+		(Please be patient as some parts may take some time)</a><br />
+		<br />
+		<b style="font-size:10pt;"></b> 	</td>
+	<td nowrap="nowrap" align="right">
+		<strong>XML File Versions:</strong><br /><br />
+		vbulletin-style.xml<br />
+		vbulletin-settings.xml<br />
+		vbulletin-language.xml<br />
+		vbulletin-adminhelp.xml
+	</td>
+	<td nowrap="nowrap"><br /><br />
+		3.8.5<br />
+		3.8.5<br />
+		3.8.5<br />
+		3.8.5	</td>
+</tr>
+</table>
+<div id="all">
+<blockquote><p>&nbsp;</p><p>This script will update your templates, settings, language and admin help to the latest versions.</p>
+<p>Press the 'Next Step' button to proceed.</p><p>&nbsp;</p></blockquote></div> <!-- end #all -->	<form action="finalupgrade.php" method="get" name="nextStep">
+	<input type="hidden" name="step" value="1" />	<table cellpadding="4" cellspacing="0" border="0" width="100%" class="navbody" style="padding:4px; border:outset 2px;">
+	<tr align="center">
+		<td><b>Click the button on the right to proceed.</b><br />vBulletin &copy;2000 - 2010, Jelsoft Enterprises Ltd.</td>
+		<td><input type="submit" class="button" accesskey="s" value="Next Step (1/5)" title="Step 1) Import latest options" /></td>
+	</tr>
+	</table>
+	</form>
+	
+
+<!-- START CONTROL PANEL FOOTER -->
+<p align="center"><a href="" target="_blank" class="copyright">vBulletin v3.8.5, Copyright &copy;2000 - 2010, Jelsoft Enterprises Ltd.</a></p>
+</body>
+</html>

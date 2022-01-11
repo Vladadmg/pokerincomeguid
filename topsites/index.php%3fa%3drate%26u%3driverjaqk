@@ -1,0 +1,111 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Poker Income Guide - Top Poker Sites - Rate and Review</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://pokerincomeguide.com/topsites/skins/classic/default.css" />
+<link href="../../../css/stylesheet1.css" rel="stylesheet" type="text/css" />
+<link rel="alternate" href="http://pokerincomeguide.com/topsites/feed.php" type="application/rss+xml" title="Poker Income Guide - Top Poker Sites" />
+<script type="text/javascript">
+function out(username)
+{
+  image = new Image();
+  image.src= 'http://pokerincomeguide.com/topsites/index.php?a=out&u=' + username;
+}
+</script>
+</head>
+<body>
+
+<table width="728" align="center"><tr><td>
+
+<a href="http://pokerincomeguide.com/topsites/"><img src="http://pokerincomeguide.com/topsites/skins/classic/headlogo.gif" alt="Poker Income Guide - Top Poker Sites" border="0" /></a>
+<br />
+<br />
+<div align="center">
+    <h2 align="center"><a href="http://pokerincomeguide.com">Home</a> |
+	<a href="../freerolls">Freeroll Schedule</a> |
+    <a href="../ebook">Free Ebook</a> |
+    <a href="http://theroundersroom.com/forum/index.php">Poker Forum</a> |
+	<a href="../uspoker">US Poker Rooms</a> |
+	<a href="http://pokertrivia.us">Poker Trivia</a> |
+	<a href="../topsites">Poker Top Sites</a> |
+	<a href="../poker-news">Poker News</a> |
+    <a href="../poker-articles">Poker Articles</a> |
+    <a href="../poker-tournaments">Poker Tournaments</a> |
+	<a href="index.html">Links</a></h2>
+    <br />
+<h1 align="center">Poker Top Sites</h1>
+<br />
+</div>
+
+<center style="margin-top: 10px;">
+<a href="http://pokerincomeguide.com/topsites/" class="menu">Rankings</a>
+<a href="http://pokerincomeguide.com/topsites/index.php?a=join" class="menu">Join</a>
+<a href="http://pokerincomeguide.com/topsites/index.php?a=user_cp" class="menu">User Control Panel</a>
+</center>
+
+<table cellspacing="0" cellpadding="0" width="100%" style="margin-top: 16px; margin-bottom: 16px;">
+<tr><td align="left">
+<form action="index.php" method="get">
+<select name="method">
+<option value="pv" selected="selected">Pageviews</option>
+<option value="in">In
+<option value="out">Out
+</select>
+<select name="cat">
+<option value="" selected="selected">All Sites</option>
+<option value="Poker">Poker</option>
+<option value="Poker Blogs">Poker Blogs</option>
+<option value="Poker Forums">Poker Forums</option>
+<option value="Poker Rooms">Poker Rooms</option>
+</select>
+<select name="start">
+<option value="1" selected="selected">1 - 10</option>
+<option value="11">11 - 11</option>
+</select>
+<input type="submit" value="Go" />
+</form>
+</td><td align="right">
+<form action="index.php" method="get">
+<input type="hidden" name="a" value="search" />
+<input type="text" name="q" size="18" value="" />
+<input type="submit" value="Search" />
+</form>
+</td></tr>
+</table>
+
+<table align="center" cellspacing="0" cellpadding="0" width="100%" style="clear: both;"><tr><td>
+
+<!-- Begin rate_form.html -->
+<form action="index.php" method="post">
+<input type="hidden" value="rate" name="a" />
+<input type="hidden" value="riverjaqk" name="u" />
+<fieldset>
+<legend>Rate and Review</legend>
+Rating<br />
+<label><input type="radio" name="rating" value="5" /><img src="http://pokerincomeguide.com/topsites/skins/classic/rate_5.png" width="100" height="20" alt="5/5" /><br /></label>
+<label><input type="radio" name="rating" value="4" /><img src="http://pokerincomeguide.com/topsites/skins/classic/rate_4.png" width="100" height="20" alt="4/5" /><br /></label>
+<label><input type="radio" name="rating" value="3" checked="checked" /><img src="http://pokerincomeguide.com/topsites/skins/classic/rate_3.png" width="100" height="20" alt="3/5" /><br /></label>
+<label><input type="radio" name="rating" value="2" /><img src="http://pokerincomeguide.com/topsites/skins/classic/rate_2.png" width="100" height="20" alt="2/5" /><br /></label>
+<label><input type="radio" name="rating" value="1" /><img src="http://pokerincomeguide.com/topsites/skins/classic/rate_1.png" width="100" height="20" alt="1/5" /><br /><br /></label>
+<label>Review - No HTML allowed<br />
+<textarea name="review" cols="40" rows="5"></textarea><br /><br />
+</label>
+<input type="submit" value="Rate and Review" />
+</fieldset>
+</form>
+<!-- End rate_form.html -->
+
+</td></tr></table>
+
+<p style="margin: 0px; height: 16px;"></p>
+
+<div class="bottom">
+Script Execution Time: 0.06562 | SQL Queries: 7 | Members: 11<br />
+Poker Income Guide - Top Poker Sites - Powered by <a href="http://www.aardvarktopsitesphp.com/"><b>Aardvark Topsites PHP</b></a> 5.1.2
+</div>
+
+</td></tr></table>
+
+</body>
+</html>
